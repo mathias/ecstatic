@@ -1,5 +1,7 @@
 # Ecstatic
 
+## **As of December 2018, Ecstatic is deprecated. Please find a suitable [replacement static site generator](https://www.staticgen.com/).**
+
 Ecstatic is a static site generator focused on simplicity. It uses just enough of the right tools, leaving as much power in your hands while still providing plenty of value. Ecstatic is opinionated in favor of [HAML](http://haml.info/), [SASS](http://sass-lang.com/), and [CoffeeScript](http://coffeescript.org/).
 
 Ecstatic provides a straight-forward directory structure for your site. It also provides a mechanism to push either the `master` or `gh-pages` branch to GitHub.
